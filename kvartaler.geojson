@@ -4,7 +4,8 @@
       "type": "Feature",
       "properties": {
         "navn": "kvartal2",
-        "typw": "kontor"
+        "typw": "kontor",
+        "stroke": "blue"
       },
       "geometry": {
         "coordinates": [
@@ -39,7 +40,8 @@
       "type": "Feature",
       "properties": {
         "navn": "kvartal1",
-        "type": "bolig"
+        "type": "bolig",
+        "stroke": "green"
       },
       "geometry": {
         "coordinates": [
