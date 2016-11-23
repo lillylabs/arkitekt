@@ -5,8 +5,8 @@
       "properties": {
         "navn": "kvartal2",
         "type": "kontor",
-        "stroke": "red",
-        "fill": "red"
+        "stroke": "blue",
+        "fill": "blue"
       },
       "geometry": {
         "coordinates": [
