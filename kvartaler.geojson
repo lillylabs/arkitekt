@@ -1,0 +1,75 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "kvartal2",
+        "typw": "kontor"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              10.73871,
+              59.910472
+            ],
+            [
+              10.739552,
+              59.910214
+            ],
+            [
+              10.740647,
+              59.911274
+            ],
+            [
+              10.739677,
+              59.911515
+            ],
+            [
+              10.73871,
+              59.910472
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "9548db21e36685d2a6c82416a089d9ce"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "kvartal1",
+        "type": "bolig"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              10.744097,
+              59.912453
+            ],
+            [
+              10.743174,
+              59.911498
+            ],
+            [
+              10.744544,
+              59.911095
+            ],
+            [
+              10.745526,
+              59.912125
+            ],
+            [
+              10.744097,
+              59.912453
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "b9939c9ae6e97b9abd65a2fcf67bfbc8"
+    }
+  ],
+  "type": "FeatureCollection"
+}
